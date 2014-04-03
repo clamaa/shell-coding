@@ -1,0 +1,13 @@
+s is a cat, however, I need a dog.^M$
+I want to "Happy" and <Happy> and /Happy/ here.^M$
+* I don't know how to do this *^M$
+# I don't Know how to do this $^M$
+^ I don't KNOW how to do this @^M$
+OK! ^Ieverythins is OK^M$
+Now, I will eat my food^M$
+are you ^Ifinished your work^M$
+what do you 123 goto where^M$
+tesaaaaatest^M$
+quit bbbbqqa testglgs^M$
+i will shutdown my mechine^M$
+bye bye^M$
